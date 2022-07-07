@@ -1,0 +1,30 @@
+{
+  "name": "server-basic-http",
+  "version": "1.0.0",
+  "description": "Http server basic of node js",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node  main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http node"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "Skenshee Augustin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.41",
+    "node": "^17.7.2",
+    "node-ts": "^5.1.2",
+    "ts-node": "^10.8.1",
+    "tsc-node": "0.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

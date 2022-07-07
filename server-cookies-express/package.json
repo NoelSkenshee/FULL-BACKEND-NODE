@@ -1,0 +1,11 @@
+{
+  "name": "server-cookies-express",
+  "version": "1.0.0",
+  "description": "He i will crea a server with  express and i will use the cookie to comunicate with the user bY the header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
